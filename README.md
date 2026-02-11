@@ -1,6 +1,3 @@
-# Secure-multiservice-platform
-# ✅ FINAL README (Use This on GitHub)
-
 # 🔐 Secure multiservice Platform 
 
 A production-oriented **cybersecurity + infrastructure showcase project** that automates deployment of a hardened: 
