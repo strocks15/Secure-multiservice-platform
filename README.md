@@ -234,7 +234,7 @@ Edit `.env`  with real values.
 
 ### 3️⃣ Run Installer 
 
-`sudo chmod +x scripts/*.sh 
+`sudo chmod +x scripts/*.sh` 
 `sudo chmod +x install_all.sh`
 `sudo bash install_all.sh`
 
